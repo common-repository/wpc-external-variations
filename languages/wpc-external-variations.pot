@@ -1,0 +1,139 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC External Variations for WooCommerce 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-external-variations\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-10T08:06:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-external-variations\n"
+
+#. Plugin Name of the plugin
+msgid "WPC External Variations for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC External Variations allows you to define an external URL for any variation."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-external-variations.php:119
+#: wpc-external-variations.php:129
+#: wpc-external-variations.php:384
+msgid "WPC External Variations"
+msgstr ""
+
+#: wpc-external-variations.php:119
+msgid "External Variations"
+msgstr ""
+
+#. translators: stars
+#: wpc-external-variations.php:132
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-external-variations.php:134
+msgid "Reviews"
+msgstr ""
+
+#: wpc-external-variations.php:135
+msgid "Changelog"
+msgstr ""
+
+#: wpc-external-variations.php:136
+msgid "Discussion"
+msgstr ""
+
+#: wpc-external-variations.php:141
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-external-variations.php:147
+#: wpc-external-variations.php:257
+msgid "Settings"
+msgstr ""
+
+#: wpc-external-variations.php:150
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-external-variations.php:165
+msgid "General"
+msgstr ""
+
+#: wpc-external-variations.php:166
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-external-variations.php:170
+#: wpc-external-variations.php:210
+#: wpc-external-variations.php:392
+msgid "Button text"
+msgstr ""
+
+#: wpc-external-variations.php:174
+#: wpc-external-variations.php:213
+#: wpc-external-variations.php:342
+#: wpc-external-variations.php:357
+msgid "Buy product"
+msgstr ""
+
+#: wpc-external-variations.php:176
+msgid "General text that is shown on all external variations' buttons. You can customize the text for specific variations in the Variations tab of single product pages."
+msgstr ""
+
+#: wpc-external-variations.php:181
+msgid "Open in new tab"
+msgstr ""
+
+#: wpc-external-variations.php:185
+#: wpc-external-variations.php:196
+msgid "Yes"
+msgstr ""
+
+#: wpc-external-variations.php:186
+#: wpc-external-variations.php:197
+msgid "No"
+msgstr ""
+
+#: wpc-external-variations.php:192
+msgid "External out-of-stock variations"
+msgstr ""
+
+#: wpc-external-variations.php:199
+msgid "Enable to convert all out-of-stock variations to external."
+msgstr ""
+
+#: wpc-external-variations.php:202
+#: wpc-external-variations.php:387
+msgid "Product URL"
+msgstr ""
+
+#: wpc-external-variations.php:273
+msgid "Community support"
+msgstr ""
+
+#: wpc-external-variations.php:389
+msgid "Enter the external URL to the product."
+msgstr ""
+
+#: wpc-external-variations.php:394
+msgid "This text will be shown on the button linking to the external product."
+msgstr ""

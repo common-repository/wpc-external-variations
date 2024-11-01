@@ -1,0 +1,52 @@
+.wpc-premium, .wpc-premium a, .active[data-slug="wpc-external-variations"] .premium a, .active[data-slug="wpc-external-variations-for-woocommerce"] .premium a {
+    color: #c9356e;
+}
+
+/* Variation */
+
+.wpcev-variation-settings {
+    margin: 1em 0;
+}
+
+.wpcev-variation-settings label {
+    display: block;
+}
+
+.wpcev-variation-wrap {
+    padding: 0 12px;
+    margin-top: 10px;
+    background-color: #fafafa;
+    border: 1px solid #8c8f94;
+    border-radius: 4px;
+    position: relative;
+}
+
+.wpcev-variation-wrap:before {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: #fafafa;
+    border-width: 1px 0 0 1px;
+    border-style: solid;
+    border-color: #8c8f94;
+    transform: rotate(45deg);
+    position: absolute;
+    top: -6px;
+    left: 15px;
+}
+
+.wpcev-inner-lines .wpcev-inner-line {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.wpcev-inner-lines .wpcev-inner-line .wpcev-inner-label {
+    width: 100px;
+    flex: 0 0 100px;
+}
+
+.wpcev-inner-lines .wpcev-inner-line .wpcev-inner-value {
+    flex-grow: 1;
+}
